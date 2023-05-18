@@ -11,3 +11,5 @@ Cela peut sans difficulté être réutiliser dans n'importe quelle autre projets
 J'espère mettre à jours ce code pour intégrer un mode automatique qui permetteras de pouvoir lancer de façon continue la trame pour une certaine durée pour permettre de traverser un quartier sans devoir appuyer sur le bouton à chaque fois. 
 
 
+### Arduino version 
+Je vais essayer de faire une version sur la base d'un arduino nano. Pour esayer de faire une solution simple et facile de télécommande. 
