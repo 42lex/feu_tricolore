@@ -1,4 +1,4 @@
-#inlclude <Arduino.h> 
+#include <Arduino.h> 
 
 void setup (){
 
